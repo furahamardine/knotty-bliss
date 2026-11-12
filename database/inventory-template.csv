@@ -1,0 +1,17 @@
+﻿id,title,author,genre,price_rwf,quantity,preorder,cover
+KB-001,Atomic Habits,James Clear,Personal development,12000,4,no,assets/cover-1.webp
+KB-002,The Psychology of Money,Morgan Housel,Personal finance,15500,2,no,assets/cover-2.webp
+KB-003,The Purpose Driven Life,Rick Warren,Religion & faith,18000,0,yes,assets/cover-3.webp
+KB-004,Small Country,Gaël Faye,Fiction,10500,0,no,assets/cover-4.webp
+KB-005,Sulwe,Lupita Nyong’o,Kids’ books,14000,5,yes,assets/cover-5.webp
+KB-006,A Mind for Numbers,Barbara Oakley,Education,12000,4,no,assets/cover-6.webp
+KB-007,Deep Work,Cal Newport,Personal development,15500,2,no,assets/cover-7.webp
+KB-008,The Richest Man in Babylon,George S. Clason,Personal finance,18000,0,yes,assets/cover-8.webp
+KB-009,The Book of Joy,Dalai Lama & Desmond Tutu with Douglas Abrams,Religion & faith,10500,0,no,assets/cover-9.webp
+KB-010,Homegoing,Yaa Gyasi,Fiction,14000,5,yes,assets/cover-10.webp
+KB-011,Last Stop on Market Street,Matt de la Peña,Kids’ books,12000,4,no,assets/cover-11.webp
+KB-012,Mindset,Carol S. Dweck,Personal development,15500,2,no,assets/cover-12.webp
+KB-013,Make It Stick,"Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel",Education,18000,0,yes,assets/cover-13.webp
+KB-014,Things Fall Apart,Chinua Achebe,Fiction,10500,0,no,assets/cover-14.webp
+KB-015,The Snowy Day,Ezra Jack Keats,Kids’ books,14000,5,yes,assets/cover-15.webp
+KB-016,Essentialism,Greg McKeown,Personal development,12000,4,no,assets/cover-16.webp
